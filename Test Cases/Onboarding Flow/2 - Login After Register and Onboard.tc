@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2 - Login After Register and Onboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0195c558-c5b3-46f4-b594-58e39dc6b685</testCaseGuid>
+</TestCaseEntity>
